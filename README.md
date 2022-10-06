@@ -1,5 +1,7 @@
 ### Overview 
 
+Sample comment for workshop 6
+
 Pleaceholder for detecting testing anti-patterns in IaC 
 
 ### Contributors
